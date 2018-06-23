@@ -1,11 +1,10 @@
 {
-  "name": "React Boilerplate",
+  "name": "react-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Bill",
   "license": "MIT",
   "scripts": {
-    "serve": "live-server public/",
     "build": "webpack",
     "dev-server": "webpack-dev-server"
   },
